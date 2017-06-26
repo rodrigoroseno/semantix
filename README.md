@@ -1,5 +1,5 @@
 # semantix + fiap.
-Desafio semantix, algoritmo de proximidade.
+Desafio semantix, algoritmo de proximidade (irá apresentar como reasultado a km entre as distancia entre dois usuários).
 
 Nesse repositório contém dois arquivos para o desafio da SEMANTIX + FIAP.
 
@@ -10,7 +10,7 @@ PASSO 2. Copiar o conteúdo dos dois arquivos e executar no ambiente.
 Obs:. Para executar o arquivo é necessaário conectar em alguma base de dados ORACLE.
 
 
-O primeiro arquivo é o BD_SEMANTIX.sql, pode-se abrir com o notepad++ e/ou qualquer editor de texto e copiar o primeiro bloco e executar no arquivo contém os comentários que facilitarão a execução dos scripts, logo em seguida realizar a criação e a inserção dos dados na base de dados.
+O primeiro arquivo é o BD_SEMANTIX.sql, pode-se abrir com o notepad++ e/ou qualquer editor de texto e copiar o primeiro bloco e executar no arquivo contém os comentários que facilitarão a execução dos scripts, assim realizará a criação e a inserção dos dados na base de dados.
 
 O segundo arquivo é o Algoritmo_SEMANTIX.sql, pode-se abrir com o notepad++ e/ou qualquer editor de texto e copiar o algoritmo e executar em uma ferramenta como o sqldeveloper, irá obter como resultado a proximidade dos usuários.
 
